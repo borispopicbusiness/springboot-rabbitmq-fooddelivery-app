@@ -38,3 +38,15 @@ After executing the second command you may execute
     \l
 
 this will list you the databases present in the postgres instance running in the container.
+
+## Running the application
+
+The application can be run with the following command:
+
+    mvn spring-boot:run
+
+## Useful curl-s
+
+For Menu endpoints:
+    
+    curl -X GET "http://localhost:8081/api/v1/menu/get/all"

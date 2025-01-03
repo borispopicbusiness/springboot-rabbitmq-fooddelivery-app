@@ -1,0 +1,10 @@
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Margherita Pizza', 8.99);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Veggie Burger', 10.49);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Grilled Salmon', 15.99);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Caesar Salad', 7.49);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Chicken Wings', 12.29);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Pasta Alfredo', 11.89);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Chocolate Cake', 6.75);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Espresso Coffee', 2.99);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Fruit Smoothie', 4.50);
+INSERT INTO menu_entity (id, name, price) VALUES (gen_random_uuid(), 'Tuna Sandwich', 9.49);
